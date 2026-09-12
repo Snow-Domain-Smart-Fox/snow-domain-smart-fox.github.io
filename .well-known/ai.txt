@@ -1,5 +1,5 @@
 Project: Amazing-Luogu
-Description: 洛谷网页增强用户脚本，站点地址 amlg.top
+Description: Userscript to enhance Luogu OJ web interface.
 Homepage: https://amlg.top/
 LLMs: /llms.txt
 
