@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://snow-domain-smart-fox.github.io/sitemap.xml
+Sitemap: https://snow-domain-smart-fox.github.io/llms.txt
