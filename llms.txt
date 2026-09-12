@@ -1,14 +1,15 @@
-# Snow-Domain-Smart-Fox Site
-> Personal open source site hosting Amazing-Luogu, a userscript for Luogu OJ.
-﻿
-Site repo: https://amlg.top
-Project repo: https://dash.amlg.top
-﻿
+# Amazing-Luogu
+> Userscript for enhancing Luogu OJ web experience for OI contestants.
+
+Site: https://amlg.top/
+Repo: https://github.com/Snow-Domain-Smart-Fox/Amazing-Luogu
+
 ## Pages
-- [Home](https://amlg.top): Site homepage
-- [Amazing-Luogu](https://dash.amlg.top): Main project landing
-- [Install](https://dash.amlg.top/install): Install page
-﻿
-## Amazing-Luogu
-Userscript enhancing Luogu OJ experience for OI contestants.
-Provides UI tweaks, problem aids, code utilities and statistics panel.
+- [Home](https://amlg.top/#home): Project homepage
+- [Explore](https://amlg.top/#explore): Feature introduction
+- [Users](https://amlg.top/#users): User information
+- [About](https://amlg.top/#about): About this project
+
+## Project
+Amazing-Luogu is a userscript for Luogu OJ.
+It provides UI optimization and problem-solving helper features for OI players.
