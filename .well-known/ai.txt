@@ -1,0 +1,7 @@
+Project: Amazing-Luogu
+Description: 洛谷网页增强用户脚本，站点地址 amlg.top
+Homepage: https://amlg.top/
+LLMs: /llms.txt
+
+Allow AI crawlers to read public documentation.
+Do not reuse source materials for closed commercial products without permission.
